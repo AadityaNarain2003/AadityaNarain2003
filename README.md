@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AadityaNarain2003
-- 👀 I’m interested in JAVA, C++
-- 🌱 I’m currently learning GUI, DATA STRUCTURES AND ALGORITHMS.
+- Research student at IIIT- Hyderabad
+- 👀 I’m interested in JAVA, C++,C
+- 🌱 I’m currently learning various of stuff.
 - 💞️ I’m looking to collaborate on VARIOUS INTERMEDIATE LEVEL PROGRAMMING
 - 📫 Email me at aaditya.narain.avna@gmail.com
 
