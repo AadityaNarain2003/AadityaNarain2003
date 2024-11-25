@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AadityaNarain2003
-- Research student at IIIT- Hyderabad
-- 👀 I’m interested in JAVA, C++,C
-- 🌱 I’m currently learning various of stuff.
-- 💞️ I’m looking to collaborate on VARIOUS INTERMEDIATE LEVEL PROGRAMMING
+- Research student at SERC,IIIT- Hyderabad
+- 👀 I’m interested in VR, Game Design, HCI
 - 📫 Email me at aaditya.narain.avna@gmail.com
 
 <!---
